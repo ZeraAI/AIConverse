@@ -1,3 +1,5 @@
+![tiger ai](https://github.com/ZeraAI/AIConverse/assets/43397999/1abb5fde-6ba3-4517-b665-0d094f4116a6)
+
 # ChatGPT Integration with C#
 
 This project demonstrates the integration of ChatGPT, a language model developed by OpenAI, with C# using the OpenAI API. It allows you to interact with the ChatGPT model and generate human-like responses to user inputs.
